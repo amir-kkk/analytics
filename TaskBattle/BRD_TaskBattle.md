@@ -1,7 +1,7 @@
 # Business Requirements Document (Бизнес требования) 
 <br>
 <div style="display: flex; align-items: flex-end; gap: 300px;">
-  <img style = "margin: 30px 0 100px 50px" src="/logo.png" alt="logo" width="350" height="450">
+  <img style = "margin: 30px 0 100px 50px" src="logo.png" alt="logo" width="350" height="450">
   <div style="font-size: 40px; ">
     <p>Автор: Краснов Амир Маратович</p>
   </div>
